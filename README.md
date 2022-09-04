@@ -8,7 +8,7 @@
   <li>👩‍💻 My projects are available <a href=https://github.com/MONDAYMIND?tab=repositories>here</a></li>
   <li>💻 I’m currently learning ReactJS</li>
   <li>:woman_office_worker:🔭 <b>I'm looking for a job</b> as a Junior Frontend developer</li>
-  <li>:bookmark_tabs: My CV: <a href=https://cv.hexlet.io/resumes/1115></a></li>
+  <li>:bookmark_tabs: My CV: <a href=https://cv.hexlet.io/resumes/1115>https://cv.hexlet.io/resumes/1115</a></li>
 </div>
 
 ### Languages and Tools:
